@@ -3223,6 +3223,18 @@
 		(layer "Edge.Cuts")
 		(uuid "e605f7a5-1b78-40a6-88c4-7441123cfc55")
 	)
+	(gr_text "WT-Charger V1\nAnthony Calvo García - C11433\nRodrigo Madrigal Montes - C24458\n"
+		(at 144 99 0)
+		(layer "B.SilkS")
+		(uuid "e02b0eab-e62e-4b0f-857f-3c6498e21dce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 115 78)
 		(end 124.5 78)
