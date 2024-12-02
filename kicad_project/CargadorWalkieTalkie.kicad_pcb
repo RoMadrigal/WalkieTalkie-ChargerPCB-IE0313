@@ -118,7 +118,7 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
 			(outputdirectory "")
 		)
@@ -170,7 +170,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/40024/135d-135j-135l.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")

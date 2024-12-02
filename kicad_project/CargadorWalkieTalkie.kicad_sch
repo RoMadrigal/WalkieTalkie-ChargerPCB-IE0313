@@ -1732,7 +1732,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/40024/135d-135j-135l.pdf"
 			(at 133.35 82.55 0)
 			(effects
 				(font
