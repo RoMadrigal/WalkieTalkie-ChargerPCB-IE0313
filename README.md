@@ -13,6 +13,19 @@ Este repositorio y sus contenidos fueron diseñados durante el curso IE0313 dura
 
 </div>
 
+## Organización y contenido de los directorios 
+
+Este repositorio contiene dos directorios principales, cuyos contenidos son:
+
+- `kicad_project`: Contiene los archivos de diseño y configuarción del proyecto
+    - `CargadorWalkieTalkie.kicad_pcb`
+    - `CargadorWalkieTalkie.kicad_pro`
+    - `CargadorWalkieTalkie.kicad_sch`
+
+- `outputs`: Contiene todos los archivos de salida de *KiCad*
+
+Si se desea utilizar este diseño y manufacturarlo por medio de un fabricante se debe comprimir los archivos incluidos en la carpeta `outputs` en un archivo `.zip` y este se puede cargar en la página del fabricante para ordenar la fabricación de la PCB. 
+
 ## Circuito base
 
 El circuito del que partimos para diseñar la PCB es el que se diseñó en la **Tarea 3**:
@@ -105,7 +118,7 @@ Y viendo las conexiones de cada capa por separado se tiene los siguiente:
 
 ### Consideraciones adicionales
 
-Por cuestiones de tiempo por el momento para este diseño no se tomó en cuenta la configuración del tamaño de las pistas de conexión en la PCB, pero esto queda pendiente como una futura mejora para el adecuado funcionamiento y como protección del circuito. Además tampoco tomamos en cuenta los fusibles en la placa por el mismo motivo y queda igualemente pendiente como mejora al diseño. 
+Por cuestiones de tiempo por el momento para este diseño no se tomó en cuenta la configuración del tamaño de las pistas de conexión en la PCB, pero esto queda pendiente como una futura mejora para el adecuado funcionamiento y como protección del circuito. Además tampoco tomamos en cuenta los fusibles en la placa por el mismo motivo y queda igualmente pendiente como mejora al diseño. 
 
 Antes de terminar el diseño agregamos los nombre de los integrantes y de la placa (`WT-Charger V1`) en la parte trasera de la PCB haciendo uso de la capa **B. Silkscreen**, que como observación importante notamos que todo lo que se agregue en esta capa ya sea texto o un logo desde el editor debe verse en espejo ya que el editor mira la placa desde el frente de la misma. Agregando este cambio se consiguió lo siguente:
 
