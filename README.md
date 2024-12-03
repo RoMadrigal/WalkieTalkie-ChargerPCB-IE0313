@@ -117,3 +117,31 @@ Antes de terminar el diseño agregamos los nombre de los integrantes y de la pla
 
 </div>
 
+## Resultados finales
+
+Como muestra de los resultados finales de este diseño se utilzó el visor 3D de *KiCad* para poder visualizar mejor la PCB, a lo cual se muestran los resultados finales en las siguientes imágenes:
+
+<div align="center">
+
+| ![Vista frontal de la PCB*](images/img6.png) |
+|:--:|
+| *Vista frontal de la PCB* |
+
+</div>
+
+<div align="center">
+
+| ![Vista trasera de la PCB*](images/img8.png) |
+|:--:|
+| *Vista trasera de la PCB* |
+
+</div>
+
+<div align="center">
+
+| ![Vista isométrica de la PCB*](images/img5.png) |
+|:--:|
+| *Vista isométrica de la PCB* |
+
+</div>
+
