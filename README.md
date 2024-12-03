@@ -41,4 +41,22 @@ Para este ciruito se tiene el siguiente listado de componentes:
 
 </div>
 
+## Diseño del esquemático 
 
+Primero para el diseño del esquemático de la PCB se seleccionó la opción *Schematic Editor* en *KiCad*, posteriormente se siguió la metodología de pasos descrita en la página de [Arcos-Lab Wiki](https://wiki.arcoslab.org/en/tutorials/kicad/example), a lo cual primero se definieron el el título, fecha y revisión del proyecto. 
+
+Posteriormente se procedió a agregar los símbolos de cada componente a utilizar en el esquemático, acomodarlos y realizar las conexiones, a lo cual se obtuvo lo siguiente:
+
+<div align="center">
+
+| ![Diseño del esquemático*](images/img1.png) |
+|:--:|
+| *Diseño del esquemático* |
+
+</div>
+
+Aquí hay algunas elecciones que es importante mencionar son:
+
+### Transformador
+
+Se realizó una investigación sobre diseños de circuitos en el mismo programa que eran similares a este y se encontró que en base a las recomendaciones y experiencias de estos usuarios determinamos que era mejor dejar el transformador fuera de la PCB y 
