@@ -75,3 +75,45 @@ Y una vez realizados todos los pasos anteriores se procedió a seleccionar la op
 
 Primero se realizó la configuración previa en el editor de PCB, donde definimos que la placa tendría dos capas y se definieron el el título, fecha y revisión del proyecto en esta página. Posteriormente se utilizó la opción *Update PCB with schematic changes* para poder importar los modelos del esquemático a la página del editor de PCB.
 
+Luego de esto se procedió a acomodar los componente en el editor tomando en cuenta la configuarción que menos espacio requiera y sea fácil de reconocer cada componente. Se realizaron las conexiones de los componentes, entre las capas **F. Cu** y **B. Cu** y se asignó que en la capa **F. Cu** se conectaría el nodo `gnd` y la capa **B. Cu** va ligada a `Vs`. Por último se procedió a hacer el relleno de cada capa dentro del recuadro definido de la PCB que definimos y se corrieron las pruebas dentro del programa para asegurar que no haya errores, a lo cual se obtuvieron los siguientes resultados:
+
+<div align="center">
+
+| ![Vista de la PCB con ambas capas superpuestas*](images/img4.png) |
+|:--:|
+| *Vista de la PCB con ambas capas superpuestas* |
+
+</div>
+
+Y viendo las conexiones de cada capa por separado se tiene los siguiente:
+
+<div align="center">
+
+| ![Capa **F. Cu** de la PCB*](images/img3.png) |
+|:--:|
+| *Capa **F. Cu** de la PCB* |
+
+</div>
+
+<div align="center">
+
+| ![Capa **B. Cu** de la PCB*](images/img2.png) |
+|:--:|
+| *Capa **B. Cu** de la PCB* |
+
+</div>
+
+### Consideraciones adicionales
+
+Por cuestiones de tiempo por el momento para este diseño no se tomó en cuenta la configuración del tamaño de las pistas de conexión en la PCB, pero esto queda pendiente como una futura mejora para el adecuado funcionamiento y como protección del circuito. Además tampoco tomamos en cuenta los fusibles en la placa por el mismo motivo y queda igualemente pendiente como mejora al diseño. 
+
+Antes de terminar el diseño agregamos los nombre de los integrantes y de la placa (`WT-Charger V1`) en la parte trasera de la PCB haciendo uso de la capa **B. Silkscreen**, que como observación importante notamos que todo lo que se agregue en esta capa ya sea texto o un logo desde el editor debe verse en espejo ya que el editor mira la placa desde el frente de la misma. Agregando este cambio se consiguió lo siguente:
+
+<div align="center">
+
+| ![Nombre de la placa y los integrantes en la parte trasera de la PCB*](images/img7.png) |
+|:--:|
+| *Nombre de la placa y los integrantes en la parte trasera de la PCB* |
+
+</div>
+
