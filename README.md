@@ -13,6 +13,40 @@ Este repositorio y sus contenidos fueron diseñados durante el curso IE0313 dura
 
 </div>
 
+## Agradecimientos a PCBWay
+
+Queremos expresar nuestros agradecimientos a **PCBWay** por su increíble apoyo en la fabricación de las PCBs para esta tarea. Desde el primer contacto hasta la recepción de las placas, la experiencia fue excelente. Las PCBs que recibimos superaron nuestras expectativas en términos de precisión y acabado. Cada detalle fue manejado con cuidado, asegurando un rendimiento óptimo y mostrando una calidad sobresaliente.
+
+La comunicación fue clara y fluida, y el tiempo de entrega se cumplió en el plazo esperado. Recibimos las placas en perfectas condiciones, en un empaque seguro y listas para ensamblar. Además siempre estuvieron disponibles para responder preguntas y asegurarse de que todo saliera según lo planeado, lo cual nos brindó seguridad y apoyo durante todo el proceso de pedido.
+
+### Resultado del ensamblaje
+
+Soldar y ensamblar estas placas fue una experiencia cómoda y bastante agradable, ya que todas las medidas de las huellas que se escogieron para los componentes en la fase de diseño corresponden perfectamente en el producto terminado y los resultados finales son un testimonio del compromiso de **PCBWay** con la excelencia. Aquí se muestran fotografías de la PCB ensamblada y terminada:
+
+| ![Vista frontal de la PCB sin ensamblar*](images/img9.jpg) |
+|:--:|
+| *Vista frontal de la PCB sin ensamblar* |
+
+| ![Vista trasera de la PCB sin ensamblar*](images/img10.jpg) |
+|:--:|
+| *Vista trasera de la PCB sin ensamblar* |
+
+Como se ve las placas se corresponden con lo esperado, y una vez se soldaron los componentes el resultado es el siguiente:
+
+| ![Vista frontal de la PCB ensamblada*](images/img11.jpg) |
+|:--:|
+| *Vista frontal de la PCB ensamblada* |
+
+| ![Vista isométrica de la PCB ensamblada*](images/img12.jpg) |
+|:--:|
+| *Vista isométrica de la PCB ensamblada* |
+
+| ![*](images/img13.jpg) |
+|:--:|
+|  |
+
+Recomendamos sus servicios para cualquiera que busque fabricar PCBs con precisión y profesionalismo, visitando su sitio web en [pcbway.com](https://www.pcbway.com).
+
 ## Organización y contenido de los directorios 
 
 Este repositorio contiene dos directorios principales, cuyos contenidos son:
