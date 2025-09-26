@@ -6,10 +6,10 @@ Este repositorio y sus contenidos fueron diseñados durante el curso IE0313 dura
 
 <div align="center">
 
-|        **Integrantes**      | **Carné** |
-|:---------------------------:|:---------:|
-|    Anthony Calvo García     |   C11433  |
-|   Rodrigo Madrigal Montes   |   C24458  |
+|        **Integrantes**      | **Carné** | **Correo electrónico**|
+|:---------------------------:|:---------:|:---------------------:|
+|    Anthony Calvo García     |   C11433  |  anthonycalvo50@gmail.com |
+|   Rodrigo Madrigal Montes   |   C24458  | rmadrigalmontes@gmail.com |
 
 </div>
 
